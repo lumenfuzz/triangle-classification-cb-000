@@ -16,4 +16,5 @@ class Triangle
     else
       kind = :scalene
     end
+  end
 end
